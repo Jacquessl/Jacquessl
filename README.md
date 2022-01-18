@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jacquessl
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me 📩 mr.jakublitwin@gmail.com
